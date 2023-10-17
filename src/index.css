@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.MuiSwitch-track{
+  background-color: red !important;
+}
+.MuiSwitch-input{
+  color: red !important;
+}
+.Mui-checked{
+  color: red !important;
+}
+.MuiButton-containedSizeMedium:hover{
+  background-color: red !important;
+}
